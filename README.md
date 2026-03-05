@@ -1,4 +1,14 @@
 ## Hi there 👋
+# I’m Akash - DevOps Engineer
+
+## DevOps Portfolio Projects
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Project 1](link) | Static Site CI/CD | AWS S3, CloudFront, GitHub Actions |
+| [Project 2](link) | Containerized App | Docker, ECS, Terraform |
+| [Project 3](link) | K8s Microservices | EKS, Helm, ArgoCD |
+| [Project 4](link) | Observability Stack | Prometheus, Grafana, ELK |
+| [Project 5](link) | Hybrid Cloud | Multi-cloud, VPN, DR |
 
 <!--
 **akash202530/akash202530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
