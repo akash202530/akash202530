@@ -5,7 +5,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [Project 1](https://github.com/akash202530/devops-01-static-site-cicd) | Static Site CI/CD | AWS S3, CloudFront, GitHub Actions |
-| [Project 2](link) | Containerized App | Docker, ECS, Terraform |
+| [Project 2](https://github.com/akash202530/Containerized-Application-on-ECS-Fargate) | Containerized App | Docker, ECS, Terraform |
 | [Project 3](link) | K8s Microservices | EKS, Helm, ArgoCD |
 | [Project 4](link) | Observability Stack | Prometheus, Grafana, ELK |
 | [Project 5](link) | Hybrid Cloud | Multi-cloud, VPN, DR |
